@@ -17,7 +17,12 @@
 .link {
   display: flex;
   text-decoration: none;
+  inline-size: max-content !important;
   color: var(--text-inactive-color);
+}
+
+.link p {
+  inline-size: max-content;
 }
 
 .link_active {

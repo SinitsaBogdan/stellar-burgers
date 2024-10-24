@@ -17,6 +17,7 @@ p {
 
 .content {
   overflow-y: scroll;
+  padding-block-end: 4rem;
 }
 
 .menu {
